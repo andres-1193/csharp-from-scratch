@@ -1,0 +1,15 @@
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.AssemblyInfoInputs.cache
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.AssemblyInfo.cs
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.csproj.CoreCompileInputs.cache
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.sourcelink.json
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\bin\Debug\net8.0\conditionals_and_operators.exe
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\bin\Debug\net8.0\conditionals_and_operators.deps.json
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\bin\Debug\net8.0\conditionals_and_operators.runtimeconfig.json
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\bin\Debug\net8.0\conditionals_and_operators.dll
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\bin\Debug\net8.0\conditionals_and_operators.pdb
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.dll
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\obj\Debug\net8.0\refint\conditionals_and_operators.dll
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.pdb
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\obj\Debug\net8.0\conditionals_and_operators.genruntimeconfig.cache
+C:\proj\nueva_copia_proyecto\conditionals_and_operators\obj\Debug\net8.0\ref\conditionals_and_operators.dll
